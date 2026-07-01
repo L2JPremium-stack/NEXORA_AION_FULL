@@ -99,7 +99,6 @@ dist/aion-server.zip
 Observacao importante sobre o `package.xml`: o ZIP final nao deve carregar uma pasta `libs` solta na raiz. As bibliotecas necessarias ficam dentro de `game-server/libs` e `login-server/libs`, que sao as pastas usadas pelos scripts de inicializacao.
 
 ## Iniciar
-
 Ordem recomendada:
 
 ```bat
